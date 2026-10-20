@@ -5,7 +5,7 @@
 Template admin dashboard premium untuk SaaS, toko online, dan aplikasi bisnis.<br>
 Glassmorphism · animasi halus · mode gelap · tanpa framework.
 
-**[💬 Pesan via WhatsApp](https://wa.me/6285755171491?text=Halo%2C%20saya%20tertarik%20template%20Jalur%20Admin%20Dashboard)**
+**[▶ Tonton Video Promo](https://asammanis89.github.io/video/jalur-promo.mp4)** &nbsp;·&nbsp; **[💬 Pesan via WhatsApp](https://wa.me/6285755171491?text=Halo%2C%20saya%20tertarik%20template%20Jalur%20Admin%20Dashboard)**
 
 <img src="media/demo.gif" alt="Demo animasi Jalur Admin Dashboard" width="100%">
 
