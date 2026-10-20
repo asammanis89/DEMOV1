@@ -1,37 +1,34 @@
 <div align="center">
 
-# Jalur — ISP & NOC Dashboard Template
+# Jalur — Admin Dashboard Template
 
-Dashboard premium untuk ISP, RT/RW Net, dan tim NOC.<br>
+Template admin dashboard premium untuk SaaS, toko online, dan aplikasi bisnis.<br>
 Glassmorphism · animasi halus · mode gelap · tanpa framework.
 
-**[▶ Coba Live Demo](LINK-DEMO)** &nbsp;·&nbsp; **[🛒 Beli Source Code](LINK-TOKO)**
+**[💬 Pesan via WhatsApp](https://wa.me/6285755171491?text=Halo%2C%20saya%20tertarik%20template%20Jalur%20Admin%20Dashboard)**
 
-<img src="media/demo.gif" alt="Demo animasi dashboard Jalur" width="100%">
+<img src="media/demo.gif" alt="Demo animasi Jalur Admin Dashboard" width="100%">
 
 </div>
 
-<!-- VIDEO: di github.com klik ikon pensil (Edit) pada README ini, lalu seret file media/demo.mp4 ke baris ini.
-     GitHub otomatis mengganti dengan link user-attachments yang tampil sebagai pemutar video HD. -->
-
 ## Kenapa Jalur?
 
-Kebanyakan template admin terlihat sama. Jalur dibuat khusus untuk dunia ISP: pelanggan PPPoE, ONU, OLT, tiket gangguan, jadwal teknisi, dan penagihan bulanan, dengan tampilan yang terasa seperti produk SaaS kelas atas.
+Kebanyakan template admin terlihat sama: sidebar abu-abu, tabel polos, tanpa karakter. Jalur dibuat supaya aplikasi kamu terasa seperti produk SaaS kelas atas sejak hari pertama, tanpa harus belajar framework baru.
 
 ## Fitur
 
 | Animasi & UI | Halaman & Fungsi |
 |---|---|
 | Transisi sapuan diagonal antar halaman | **Ringkasan**: pendapatan, KPI, grafik, aktivitas |
-| Ganti tema efek "venom" yang merambat | **Pelanggan**: profil, tiket, kalender teknisi, pesan |
-| Glassmorphism + bola warna melayang | **Jaringan**: trafik live, alarm, daftar perangkat |
+| Ganti tema efek "venom" yang merambat | **Pelanggan**: profil, proyek, kalender tim, pesan |
+| Glassmorphism + bola warna melayang | **Analitik**: pengunjung live, sumber trafik, produk terlaris |
 | Dock magnify ala macOS | **Tagihan**: progres penagihan, paket, promo, riwayat |
 | Indikator pill meluncur | Pencarian aktivitas real-time |
 | Angka count-up, grafik tumbuh | Mode terang & gelap |
 | Kartu tilt 3D | Responsif sampai HP |
 | Tombol spinner → centang | Hormati "kurangi gerakan" |
 
-**Nol dependensi.** HTML, CSS, dan JavaScript murni. Buka `index.html`, langsung jalan. Tidak perlu npm, build, atau framework.
+**Nol dependensi.** HTML, CSS, dan JavaScript murni. Buka `index.html`, langsung jalan. Mudah dipasang ke Laravel, Node.js, PHP, atau backend apa pun.
 
 ## Tangkapan Layar
 
@@ -39,7 +36,7 @@ Kebanyakan template admin terlihat sama. Jalur dibuat khusus untuk dunia ISP: pe
 |---|---|
 | ![Ringkasan](media/ringkasan-light.jpg) | ![Ringkasan gelap](media/ringkasan-dark.jpg) |
 | ![Pelanggan](media/pelanggan-light.jpg) | ![Pelanggan gelap](media/pelanggan-dark.jpg) |
-| ![Jaringan](media/jaringan-light.jpg) | ![Jaringan gelap](media/jaringan-dark.jpg) |
+| ![Analitik](media/analitik-light.jpg) | ![Analitik gelap](media/analitik-dark.jpg) |
 | ![Tagihan](media/tagihan-light.jpg) | ![Tagihan gelap](media/tagihan-dark.jpg) |
 
 <p align="center"><img src="media/mobile-light.jpg" alt="Tampilan HP" width="280"></p>
@@ -48,16 +45,16 @@ Kebanyakan template admin terlihat sama. Jalur dibuat khusus untuk dunia ISP: pe
 
 - Source code lengkap (`index.html`, `style.css`, `app.js`) yang rapi dan diberi komentar
 - Panduan kustomisasi: ganti warna, brand, data, dan menambah halaman
-- Titik sambung data live untuk MikroTik, Proxmox, LibreNMS, atau API sendiri
+- Titik sambung data live untuk API atau backend sendiri
 - Lisensi komersial: boleh dipakai di proyek pribadi dan proyek klien
 - Update gratis untuk versi berikutnya
 
-## Beli
+## Cara Beli
 
-**[🛒 Beli di LINK-TOKO](LINK-TOKO)**
+Hubungi langsung lewat WhatsApp: **[0857-5517-1491](https://wa.me/6285755171491?text=Halo%2C%20saya%20tertarik%20template%20Jalur%20Admin%20Dashboard)**
 
-Butuh versi custom (integrasi RADIUS, MikroTik API, Laravel/Node backend)? Hubungi saya lewat [Instagram/WhatsApp](LINK-KONTAK).
+Butuh versi custom, misalnya disambungkan ke backend Laravel atau Node.js? Tanyakan juga lewat WhatsApp.
 
 ---
 
-<sub>© 2026 Ardha Febrian Muqorrobin. Repo ini berisi pratinjau; source code tersedia lewat pembelian. Lihat [LICENSE](LICENSE).</sub>
+<sub>© 2026 Ardha Febrian Muqorrobin · Ardha Web & VPS. Repo ini berisi pratinjau; source code tersedia lewat pembelian. Lihat [LICENSE](LICENSE).</sub>
